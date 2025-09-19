@@ -1,0 +1,19 @@
+This is a Movie Recommendation System created for the CodSoft AI Internship (Task 4).
+It uses Content-Based Filtering with TF-IDF Vectorization and Cosine Similarity to suggest similar movies.
+
+🛠 Tech Used
+Python
+Pandas
+Scikit-learn
+TfidfVectorizer
+cosine_similarity
+▶ How to Run
+Save the file as recommendation_system.py.
+Run in terminal:
+python recommendation_system.py
+Choose a movie title from the dataset.
+Get top 3 recommended movies based on similarity.
+📂 Folder Structure
+Task4_Recommendation_System/
+├─ recommendation_system.py
+└─ README.md
