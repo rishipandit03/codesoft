@@ -1,0 +1,29 @@
+This is an unbeatable Tic-Tac-Toe AI built for the CodSoft AI Internship (Task 2).
+The AI uses the Minimax algorithm with Alpha-Beta pruning to always make the optimal move.
+You can play against it in the terminal, and it will never lose (at best you can draw).
+
+🛠 Tech Used
+Python (Standard Library Only)
+Minimax Algorithm
+Alpha-Beta Pruning
+Console-based user interaction
+▶ How to Run
+Save the file as tic_tac_toe_ai.py.
+Run in terminal:
+python tic_tac_toe_ai.py
+Choose your symbol (X or O).
+Play using positions 1–9:
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
+ 7 | 8 | 9
+The AI will make its move automatically.
+Game ends when either:
+AI wins 🏆
+You win (rare 😅)
+Or it’s a draw 🤝
+📂 Folder Structure
+Task2_TicTacToe_AI/
+├─ tic_tac_toe_ai.py
+└─ README.md
